@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1536109714 source:j:\codes\c++\fila linear\main.cpp
+	<iostream>
+	"queue.h"
+
+1536109714 
+
+1536109738 j:\codes\c++\fila linear\queue.h
+
+1536699480 source:/home/mmazoni/Codes/C++/dequeue/main.cpp
+	<iostream>
+	"dequeue.h"
+
+1536700722 /home/mmazoni/Codes/C++/dequeue/dequeue.h
+
